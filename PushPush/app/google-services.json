@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38641100537",
+    "firebase_url": "https://pushpush-6183d.firebaseio.com",
+    "project_id": "pushpush-6183d",
+    "storage_bucket": "pushpush-6183d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38641100537:android:36bb0d13aa7c8e17",
+        "android_client_info": {
+          "package_name": "com.leandro.pushpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38641100537-c37g4bthglrflp6v5kq28r3gehqao7lg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leandro.pushpush",
+            "certificate_hash": "e3919e10a8cefd6b79fcb17d8f35c738f617e2de"
+          }
+        },
+        {
+          "client_id": "38641100537-a3qb5r0scfd9eta8o2ao72fu91oo2f70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn2DWtr3r_pa0ZPJuGOFgoHdWy0hl9H-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38641100537-a3qb5r0scfd9eta8o2ao72fu91oo2f70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
